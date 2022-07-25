@@ -5,7 +5,7 @@ services:
     build:
       context: .
       dockerfile: Dockerfile      
-    image: valheim-server-docker:0.0.1
+    image: valheim-server-docker:0.0.2
     cap_add:
       - sys_nice
     volumes: 
