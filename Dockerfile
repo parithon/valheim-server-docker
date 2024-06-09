@@ -77,8 +77,7 @@ RUN mkdir -p /usr/local/etc/supervisor/conf.d/ \
     && chmod 640 /usr/local/etc/supervisord.conf
 RUN echo "${SOURCE_COMMIT:-unknown}" > /usr/local/etc/git-commit.HEAD
 
-
-FROM debian:buster-slim
+FROM debian:buster-slim AS valheim-server
 ENV DEBIAN_FRONTEND=noninteractive
 COPY --from=build-env /usr/local/ /usr/local/
 COPY fake-supervisord /usr/bin/supervisord
@@ -159,8 +158,18 @@ RUN groupadd -g "${PGID:-0}" -o valheim \
     && rm -rf /var/lib/apt/lists/* /tmp/* /var/tmp/* \
     && date --utc --iso-8601=seconds > /usr/local/etc/build.date
 
+FROM mcr.microsoft.com/dotnet/sdk:8.0 AS dotnet-build-env
+WORKDIR /App
+COPY ./valheim-web/ ./
+RUN dotnet restore
+RUN dotnet publish -c Release -o out
+
+FROM valheim-server
+COPY --from=dotnet-build-env /App/out/ /opt/valheim-web/
+
 EXPOSE 2456-2457/udp
 EXPOSE 9001/tcp
+EXPOSE 5000/tcp
 EXPOSE 80/tcp
 WORKDIR /
 CMD ["/usr/local/sbin/bootstrap"]
