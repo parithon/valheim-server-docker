@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "HJ9lvkw3QEM=",
+  "dgSpecHash": "LoD3NUW/Lubrep8YUrsZD6BCpFft+lfU7MGByG6fvflPGHS6uIjJqzq9BGeQZDtCPU6cMQlR4K6OWYrTXOLRcw==",
   "success": true,
-  "projectFilePath": "/home/parithon/dev/valheim-server-docker/valheim-web/valheim-web.csproj",
+  "projectFilePath": "C:\\Users\\anthonyconrad\\dev\\valheim-server-docker\\valheim-web\\valheim-web.csproj",
   "expectedPackageFiles": [
-    "/home/parithon/.nuget/packages/microsoft.netcore.app.runtime.linux-x64/8.0.6/microsoft.netcore.app.runtime.linux-x64.8.0.6.nupkg.sha512",
-    "/home/parithon/.nuget/packages/microsoft.aspnetcore.app.runtime.linux-x64/8.0.6/microsoft.aspnetcore.app.runtime.linux-x64.8.0.6.nupkg.sha512"
+    "C:\\Users\\anthonyconrad\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\8.0.6\\microsoft.netcore.app.runtime.win-x64.8.0.6.nupkg.sha512",
+    "C:\\Users\\anthonyconrad\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\8.0.6\\microsoft.windowsdesktop.app.runtime.win-x64.8.0.6.nupkg.sha512",
+    "C:\\Users\\anthonyconrad\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\8.0.6\\microsoft.aspnetcore.app.runtime.win-x64.8.0.6.nupkg.sha512"
   ],
   "logs": []
 }
