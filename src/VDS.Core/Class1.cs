@@ -1,6 +1,1 @@
-﻿namespace VDS.Core;
-
-public class Class1
-{
-
-}
+﻿// This will be replaced with core domain services

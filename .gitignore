@@ -23,3 +23,13 @@ venv*
 /config/
 *.code-workspace
 valheim.env
+
+# .NET
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+[Tt]humbs.db
+*.DotSettings.user

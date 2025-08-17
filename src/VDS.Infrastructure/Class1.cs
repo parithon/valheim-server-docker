@@ -1,6 +1,1 @@
-﻿namespace VDS.Infrastructure;
-
-public class Class1
-{
-
-}
+﻿// This will be replaced with infrastructure implementations
