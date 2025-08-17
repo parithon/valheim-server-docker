@@ -1,0 +1,12 @@
+/home/runner/work/valheim-server-docker/valheim-server-docker/src/VDS.Infrastructure/bin/Debug/net8.0/VDS.Infrastructure.deps.json
+/home/runner/work/valheim-server-docker/valheim-server-docker/src/VDS.Infrastructure/bin/Debug/net8.0/VDS.Infrastructure.dll
+/home/runner/work/valheim-server-docker/valheim-server-docker/src/VDS.Infrastructure/bin/Debug/net8.0/VDS.Infrastructure.pdb
+/home/runner/work/valheim-server-docker/valheim-server-docker/src/VDS.Infrastructure/obj/Debug/net8.0/VDS.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/work/valheim-server-docker/valheim-server-docker/src/VDS.Infrastructure/obj/Debug/net8.0/VDS.Infrastructure.AssemblyInfoInputs.cache
+/home/runner/work/valheim-server-docker/valheim-server-docker/src/VDS.Infrastructure/obj/Debug/net8.0/VDS.Infrastructure.AssemblyInfo.cs
+/home/runner/work/valheim-server-docker/valheim-server-docker/src/VDS.Infrastructure/obj/Debug/net8.0/VDS.Infrastructure.csproj.CoreCompileInputs.cache
+/home/runner/work/valheim-server-docker/valheim-server-docker/src/VDS.Infrastructure/obj/Debug/net8.0/VDS.Infrastructure.sourcelink.json
+/home/runner/work/valheim-server-docker/valheim-server-docker/src/VDS.Infrastructure/obj/Debug/net8.0/VDS.Infrastructure.dll
+/home/runner/work/valheim-server-docker/valheim-server-docker/src/VDS.Infrastructure/obj/Debug/net8.0/refint/VDS.Infrastructure.dll
+/home/runner/work/valheim-server-docker/valheim-server-docker/src/VDS.Infrastructure/obj/Debug/net8.0/VDS.Infrastructure.pdb
+/home/runner/work/valheim-server-docker/valheim-server-docker/src/VDS.Infrastructure/obj/Debug/net8.0/ref/VDS.Infrastructure.dll

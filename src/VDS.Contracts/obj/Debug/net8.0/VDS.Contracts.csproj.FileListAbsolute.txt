@@ -1,0 +1,12 @@
+/home/runner/work/valheim-server-docker/valheim-server-docker/src/VDS.Contracts/bin/Debug/net8.0/VDS.Contracts.deps.json
+/home/runner/work/valheim-server-docker/valheim-server-docker/src/VDS.Contracts/bin/Debug/net8.0/VDS.Contracts.dll
+/home/runner/work/valheim-server-docker/valheim-server-docker/src/VDS.Contracts/bin/Debug/net8.0/VDS.Contracts.pdb
+/home/runner/work/valheim-server-docker/valheim-server-docker/src/VDS.Contracts/obj/Debug/net8.0/VDS.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/work/valheim-server-docker/valheim-server-docker/src/VDS.Contracts/obj/Debug/net8.0/VDS.Contracts.AssemblyInfoInputs.cache
+/home/runner/work/valheim-server-docker/valheim-server-docker/src/VDS.Contracts/obj/Debug/net8.0/VDS.Contracts.AssemblyInfo.cs
+/home/runner/work/valheim-server-docker/valheim-server-docker/src/VDS.Contracts/obj/Debug/net8.0/VDS.Contracts.csproj.CoreCompileInputs.cache
+/home/runner/work/valheim-server-docker/valheim-server-docker/src/VDS.Contracts/obj/Debug/net8.0/VDS.Contracts.sourcelink.json
+/home/runner/work/valheim-server-docker/valheim-server-docker/src/VDS.Contracts/obj/Debug/net8.0/VDS.Contracts.dll
+/home/runner/work/valheim-server-docker/valheim-server-docker/src/VDS.Contracts/obj/Debug/net8.0/refint/VDS.Contracts.dll
+/home/runner/work/valheim-server-docker/valheim-server-docker/src/VDS.Contracts/obj/Debug/net8.0/VDS.Contracts.pdb
+/home/runner/work/valheim-server-docker/valheim-server-docker/src/VDS.Contracts/obj/Debug/net8.0/ref/VDS.Contracts.dll
